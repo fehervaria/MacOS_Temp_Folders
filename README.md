@@ -1,4 +1,4 @@
-#macOS temp folders in the /var/folders/zz
+## macOS temp folders in the /var/folders/zz
 
 If you work with Macintosh computers and administer a Macintosh network probably you would like to know what is in the temporary folders, inside the /var/folders/zz folder.
 
